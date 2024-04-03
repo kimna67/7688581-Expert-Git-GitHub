@@ -1,6 +1,9 @@
 # Open Transport
 
 Application web pour covoiturage. 
+intervention de karim NASR
+Le fichier REAME.md contient une sous section nommée "Deployement".
+Le langue pour le fichier est le français, il faut donc corriger le texte en "Déploiement".
 
 ## Getting Started
 
@@ -33,7 +36,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Deploiement
 
 Voici les étapes à suivre pour déployer en production :
 
